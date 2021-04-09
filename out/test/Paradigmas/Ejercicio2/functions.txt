@@ -1,0 +1,4 @@
+padre(martin,fernando)
+madre(martin,virginia)
+madre(natalia,virginia)
+padre(virginia,jose)

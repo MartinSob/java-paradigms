@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Paradigmas.iml" filepath="$PROJECT_DIR$/Paradigmas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial1/Parcial1.iml" filepath="$PROJECT_DIR$/Parcial1/Parcial1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/TP2.iml" filepath="$PROJECT_DIR$/TP2/TP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4/TP4.iml" filepath="$PROJECT_DIR$/TP4/TP4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP6/TP6.iml" filepath="$PROJECT_DIR$/TP6/TP6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP7/TP7.iml" filepath="$PROJECT_DIR$/TP7/TP7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP8/TP8.iml" filepath="$PROJECT_DIR$/TP8/TP8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP9/TP9.iml" filepath="$PROJECT_DIR$/TP9/TP9.iml" />
+    </modules>
+  </component>
+</project>

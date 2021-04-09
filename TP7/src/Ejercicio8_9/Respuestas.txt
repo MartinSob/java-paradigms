@@ -1,0 +1,5 @@
+Respuesta 8:
+    Que la clase C implemente las interfaces IA e IB
+
+Respuesta 9:
+    Que herede de C e implemente ID

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paradigms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paradigms-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paradigms-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paradigms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paradigms-web" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+Promedio pares: 32.5 
+Promedio impares: 3.6666667 
